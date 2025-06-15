@@ -18,3 +18,5 @@ appState1.isLoggedIn = True
 
 print(appState1.isLoggedIn) # True
 print(appState2.isLoggedIn) # True
+
+# example followed from a NeetCode tutorial
